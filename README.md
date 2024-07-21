@@ -1,2 +1,3 @@
 # products-categories
-PySpark test task
+
+Задание выполнила в файле формата IPython notebook для наглядности.
